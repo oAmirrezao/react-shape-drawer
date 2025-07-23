@@ -37,7 +37,7 @@ git clone https://github.com/your-username/your-repository-name.git
 ```
 2.  وارد پوشه پروژه شوید:
 ```
-cd repository-root-directory
+cd mini-paint
 ```
 3.  بسته‌های مورد نیاز را با استفاده از `npm` یا `yarn` نصب کنید:
 ```
