@@ -32,25 +32,25 @@
 برای اجرای پروژه به صورت محلی، مراحل زیر را دنبال کنید:
 
 1.  ابتدا مخزن را از گیت‌هاب کلون کنید:
-    ```bash
+```
 git clone https://github.com/your-username/your-repository-name.git
-    ```
+```
 2.  وارد پوشه پروژه شوید:
-    ```bash
-cd repository-root-directory
-    ```
+```
+    cd repository-root-directory
+```
 3.  بسته‌های مورد نیاز را با استفاده از `npm` یا `yarn` نصب کنید:
-    ```bash
+```
 npm install
 # یا
 # yarn install
-    ```
+```
 4.  پروژه را در حالت توسعه اجرا کنید:
-    ```bash
+```
 npm run dev
 # یا
 # yarn dev
-    ```
+```
 5.  برنامه در آدرس `http://localhost:5173` (یا پورت دیگری که در ترمینال اعلام می‌شود) قابل مشاهده خواهد بود.
 
 ---
