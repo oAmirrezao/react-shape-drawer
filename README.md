@@ -53,8 +53,8 @@ npm run dev
 ```
 5.  برنامه در آدرس `http://localhost:5173` (یا پورت دیگری که در ترمینال اعلام می‌شود) قابل مشاهده خواهد بود.
 عکس نمونه از ui برنامه‌ی paint ما:
----<img width="1852" height="912" alt="image" src="https://github.com/user-attachments/assets/571551c7-357a-4a35-b588-53f232cb6f4d" />
-
+<img width="1852" height="912" alt="image" src="https://github.com/user-attachments/assets/571551c7-357a-4a35-b588-53f232cb6f4d" />
+---
 
 ##  معماری و ساختار پروژه
 
