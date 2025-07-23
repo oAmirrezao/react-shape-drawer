@@ -37,18 +37,18 @@ git clone https://github.com/your-username/your-repository-name.git
 ```
 2.  وارد پوشه پروژه شوید:
 ```
-    cd repository-root-directory
+cd repository-root-directory
 ```
 3.  بسته‌های مورد نیاز را با استفاده از `npm` یا `yarn` نصب کنید:
 ```
 npm install
-# یا
+# or
 # yarn install
 ```
 4.  پروژه را در حالت توسعه اجرا کنید:
 ```
 npm run dev
-# یا
+# or
 # yarn dev
 ```
 5.  برنامه در آدرس `http://localhost:5173` (یا پورت دیگری که در ترمینال اعلام می‌شود) قابل مشاهده خواهد بود.
